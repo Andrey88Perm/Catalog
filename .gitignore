@@ -1,0 +1,26 @@
+# Зависимости
+node_modules/
+venv/
+__pycache__/
+package-lock.json
+yarn.lock
+
+# Секреты и окружение
+.env
+.env.local
+.env.*.local
+
+# Собранные/скомпилированные артефакты
+dist/
+build/
+out/
+
+# Настройки IDE и ОС
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Логи и кэш
+*.log
+.cache/
